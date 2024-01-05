@@ -1,5 +1,12 @@
 # prometheus_node
 
+**exception: error
+method: 
+repository: auth-service
+state= 'SUCCESS'
+status=200/304
+uri='/get/id'**
+
 
 For checking Prometheus metrics
 
